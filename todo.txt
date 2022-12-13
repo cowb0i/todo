@@ -1,7 +1,1 @@
-2022-12-10 Organize Cable bin @home
-2022-12-10 This is a test task +quicktask
-2022-12-12 Pay credit card bill @phone
-2022-12-12 Test list:action
-2022-12-13 Another test task +quicktask
-2022-12-13 This is another test task I made. Hopefully this works!
-2022-12-13 This is another task that I will push using the home screen touch thing!
+
