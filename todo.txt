@@ -1,2 +1,11 @@
-
-This is a test task from my computer! +quicktask
+2022-12-13 Update strava user account email @laptop +privacy
+2022-12-13 Update amazon user account email @laptop +privacy
+2022-12-13 Buy expanding portable filing folder off amazon @laptop @phone +gtd
+2022-12-13 Change nintendo online email address @laptop +privacy
+2022-12-13 Change email address associated with bandcamp account @laptop +privacy
+2022-12-13 Add NAS password to password store +personalsecurity @laptop @phone
+2022-12-13 Brainstorm card ideas for SO +so +christmasgift @home @desk
+2022-12-13 Brainstorm purchasable gift ideas for SO +so +christmasgift
+2022-12-13 Review pricing options for hosted git. Is it cheaper to self host? +privacy +selfhostedgit
+2022-12-13 Brainstorm card content for SO bday card +birthdaygift @home @desk
+2022-12-13 Make appointment online for haircut @laptop @phone
