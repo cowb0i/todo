@@ -16,3 +16,4 @@ Finish drying dishes on drying rack. Finish cleaning dishes in the sink @home
 2022-12-13 Create projects list +gtd @phone @laptop
 2022-12-13 Create a repository to store and sync projects list @laptop @home +gtd
 2022-12-13 Create a repository for maybe-some-day list @laptop +gtd
+2022-12-13 Clean up birthday decorations @home
