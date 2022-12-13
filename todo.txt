@@ -10,3 +10,9 @@
 2022-12-13 Brainstorm card content for SO bday card +birthdaygift @home @desk
 2022-12-13 Make appointment online for haircut @laptop @phone
 Finish drying dishes on drying rack. Finish cleaning dishes in the sink @home
+2022-12-13 Backup password store to USB or harddisk +personalsecurity @laptop
+2022-12-13 Find a suitable medium to backup password store @home +personalsecurity
+2022-12-13 Create a maybe someday list +gtd @phone @laptop
+2022-12-13 Create projects list +gtd @phone @laptop
+2022-12-13 Create a repository to store and sync projects list @laptop @home +gtd
+2022-12-13 Create a repository for maybe-some-day list @laptop +gtd
