@@ -9,3 +9,4 @@
 2022-12-13 Review pricing options for hosted git. Is it cheaper to self host? +privacy +selfhostedgit
 2022-12-13 Brainstorm card content for SO bday card +birthdaygift @home @desk
 2022-12-13 Make appointment online for haircut @laptop @phone
+Finish dry dishes on drying rack. Finish cleaning dishes in the sink @home
