@@ -30,3 +30,5 @@ x 2022-12-13 Finish drying dishes on drying rack. Finish cleaning dishes in the 
 2022-12-14 Clean bathroom floors +housekeeping @home
 2022-12-14 Organize shelves +housekeeping @home
 2022-12-14 Clean living area floors +housekeeping @home
+2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
+2022-12-14 Dry cleaned dishes and containers +housekeeping +cleanfridge @home
