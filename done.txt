@@ -1,0 +1,5 @@
+x 2022-12-14 2022-12-13 Add NAS password to password store +personalsecurity @laptop @phone
+x 2022-12-13 Finish drying dishes on drying rack. Finish cleaning dishes in the sink @home
+x 2022-12-14 2022-12-14 Dry cleaned dishes and containers +housekeeping +cleanfridge @home
+x 2022-12-14 2022-12-13 Update strava user account email @laptop +privacy
+x 2022-12-14 2022-12-14 Get more cream of wheat @grocerystore +errands
