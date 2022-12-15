@@ -3,3 +3,8 @@ x 2022-12-13 Finish drying dishes on drying rack. Finish cleaning dishes in the 
 x 2022-12-14 2022-12-14 Dry cleaned dishes and containers +housekeeping +cleanfridge @home
 x 2022-12-14 2022-12-13 Update strava user account email @laptop +privacy
 x 2022-12-14 2022-12-14 Get more cream of wheat @grocerystore +errands
+x 2022-12-15 2022-12-13 Buy expanding portable filing folder off amazon @laptop @phone +gtd
+x 2022-12-15 2022-12-13 Create projects list +gtd @phone @laptop
+x 2022-12-14 2022-12-14 Get almond milk from grocery store @grocerystore +errands
+x 2022-12-15 2022-12-15 Update banking password in pw store @laptop +personalsecurity
+x 2022-12-15 2022-12-15 Etransfer GF amount for implant and vet bills @phone @etransfer @laptop
