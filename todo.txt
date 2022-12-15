@@ -14,16 +14,16 @@
 2022-12-13 Create a repository to store and sync projects list @laptop @home +gtd
 2022-12-13 Create a repository for maybe-some-day list @laptop +gtd
 2022-12-13 Clean up birthday decorations @home +housekeeping
-2022-12-13 Prepare Joels christmas gift for Friday @home due:2022-12-16
+2022-12-13 Acquire a box or a bag to wrap Joels christmas gift in @home due:2022-12-16
 2022-12-13 Clean out fridge @home +housekeeping
 2022-12-14 Clean keyboard +housekeeping
-2022-12-14 Get almond milk from grocery store @grocerystore +errands
+x 2022-12-14 2022-12-14 Get almond milk from grocery store @grocerystore +errands
 2022-12-14 Get egg nogg @grocerystore +errands
 2022-12-14 Create Areas Of Focus list @phone @laptop +gtd
 2022-12-14 Clean toilet +housekeeping @home
+2022-12-14 Clean shower @home +housekeeping
 2022-12-14 Clean kitchen floors (sweep and mop) +housekeeping @home
 2022-12-14 Clean bathroom floors +housekeeping @home
 2022-12-14 Organize shelves +housekeeping @home
 2022-12-14 Clean living area floors +housekeeping @home
 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
-2022-12-14 Clean shower @home +housekeeping
