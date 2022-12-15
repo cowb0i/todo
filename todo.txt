@@ -1,9 +1,9 @@
 2022-12-13 Update amazon user account email @laptop +privacy
 2022-12-13 Change nintendo online email address @laptop +privacy
-2022-12-13 Change email address associated with bandcamp account @laptop +privacy
+2022-12-13 Change email address associated with bandcamp account @laptop +privacy @bandcamp
 2022-12-13 Brainstorm card ideas for SO +so +christmasgift @home @desk
 2022-12-13 Brainstorm purchasable gift ideas for SO +so +christmasgift
-2022-12-13 Review pricing options for hosted git. Is it cheaper to self host? +privacy +selfhostedgit
+2022-12-13 Review pricing options for hosted git. Is it cheaper to self host? +privacy +selfhostedgit @laptop @digitalocean
 2022-12-13 Brainstorm card content for SO bday card +birthdaygift @home @desk
 2022-12-13 Make appointment online for haircut @laptop @phone +selfcare
 2022-12-13 Backup password store to USB or harddisk +personalsecurity @laptop
@@ -13,7 +13,7 @@
 2022-12-13 Create a repository for maybe-some-day list @laptop +gtd
 2022-12-13 Clean up birthday decorations @home +housekeeping
 2022-12-13 Acquire a box or a bag to wrap Joels christmas gift in @home due:2022-12-16
-2022-12-13 Clean out fridge @home +housekeeping
+x 2022-12-15 2022-12-13 Clean out fridge @home +housekeeping
 2022-12-14 Clean keyboard +housekeeping
 2022-12-14 Get egg nogg @grocerystore +errands
 2022-12-14 Create Areas Of Focus list @phone @laptop +gtd
@@ -23,5 +23,7 @@
 2022-12-14 Clean bathroom floors +housekeeping @home
 2022-12-14 Organize shelves +housekeeping @home
 2022-12-14 Clean living area floors +housekeeping @home
-2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
+x 2022-12-15 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
 2022-12-15 Brainstorm ideas for a past the present gift +christmasgift @laptop
+2022-12-15 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
+2022-12-15 Wash fridge door shelves +housekeeping @home
