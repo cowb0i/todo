@@ -27,3 +27,5 @@ x 2022-12-14 2022-12-14 Get almond milk from grocery store @grocerystore +errand
 2022-12-14 Organize shelves +housekeeping @home
 2022-12-14 Clean living area floors +housekeeping @home
 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
+2022-12-15 Etransfer GF amount for implant and vet bills @phone
+2022-12-15 Update banking password in pw store @laptop +personalsecurity
