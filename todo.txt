@@ -28,3 +28,4 @@ x 2022-12-15 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
 2022-12-15 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
 x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
 2022-12-16 Wash dishes on table and around sink. Dry dishes on dry rack @home +housekeeping
+2022-12-16 Add birthdays to calendar @phone @laptop +personalorganization
