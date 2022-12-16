@@ -30,3 +30,5 @@ x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
 2022-12-16 Wash dishes on table and around sink. Dry dishes on dry rack @home +housekeeping
 2022-12-16 Add birthdays to calendar @phone @laptop +personalorganization
 2022-12-16 Change email address associated with dekudeals.com @laptop +privacy
+2022-12-16 Get birthday card for dad @errands +birthdaygift
+2022-12-16 Find a day for the Stack Christmas market @phone +familyengagement
