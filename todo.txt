@@ -24,6 +24,7 @@ x 2022-12-15 2022-12-13 Clean out fridge @home +housekeeping
 2022-12-14 Organize shelves +housekeeping @home
 2022-12-14 Clean living area floors +housekeeping @home
 x 2022-12-15 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
-2022-12-15 Brainstorm ideas for a past the present gift +christmasgift @laptop
+2022-12-15 Brainstorm ideas for a pass-the-present gift +christmasgift @laptop
 2022-12-15 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
-2022-12-15 Wash fridge door shelves +housekeeping @home
+x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
+2022-12-16 Wash dishes on table and around sink. Dry dishes on dry rack @home +housekeeping
