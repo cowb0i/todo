@@ -15,7 +15,7 @@
 2022-12-13 Acquire a box or a bag to wrap Joels christmas gift in @home due:2022-12-16
 x 2022-12-15 2022-12-13 Clean out fridge @home +housekeeping
 2022-12-14 Clean keyboard +housekeeping
-2022-12-14 Get egg nogg @grocerystore +errands
+x 2022-12-17 2022-12-14 Get egg nogg @grocerystore +errands
 2022-12-14 Create Areas Of Focus list @phone @laptop +gtd
 2022-12-14 Clean toilet +housekeeping @home
 2022-12-14 Clean shower @home +housekeeping
@@ -39,3 +39,7 @@ x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
 2022-12-17 Find a frame for diploma @phone @laptop +housekeeping
 2022-12-17 Look for some type of blackout marker @errands @phone @laptop +privacy
 2022-12-17 Purchase the Getting Things Done book @errands +personalorganization
+2022-12-17 Find the IP of the raspberry pi server @laptop +personalsecurity +selfhostedgit
+2022-12-17 Attempt to SSH onto raspberry pi server. If not possible. Disconnect and configure sshd @laptop @home +selfhostedgit +personalsecurity
+2022-12-17 Install and setup git server according to code madness article +personalsecurity +selfhostedgit @laptop @rpi @home
+2022-12-17 Change repo origin on necessary devices. Push from laptop. Pull from phone. @laptop @phone +personalsecurity +selfhostedgit @home
