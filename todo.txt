@@ -36,3 +36,6 @@ x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
 2022-12-16 Find a small document paper shredder +personalorganization +privacy @laptop @phone
 2022-12-16 Review overdraft changes documents @desk +persnalfinance
 2022-12-16 Review credit card privacy statement @desk +privacy
+2022-12-17 Find a frame for diploma @phone @laptop +housekeeping
+2022-12-17 Look for some type of blackout marker @errands @phone @laptop +privacy
+2022-12-17 Purchase the Getting Things Done book @errands +personalorganization
