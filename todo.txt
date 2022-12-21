@@ -52,3 +52,4 @@ x 2022-12-17 2022-12-17 Add SO sister's birthday to calendar @phone @laptop +per
 2022-12-17 Add SOs nephews birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
 2022-12-17 Purchase a stackable letter tray @phone @laptop +personalorganization +gtd
 2022-12-20 Update chocofur user account email to hobby email address @laptop +privacy
+2022-12-21 Create and agenda doc on google account to share with sister and SO for new year meeting @laptop
