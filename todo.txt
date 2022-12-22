@@ -11,7 +11,7 @@
 2022-12-13 Create a maybe someday list +gtd @phone @laptop
 2022-12-13 Create a repository to store and sync projects list @laptop @home +gtd
 2022-12-13 Create a repository for maybe-some-day list @laptop +gtd
-2022-12-13 Clean up birthday decorations @home +housekeeping
+x 2022-12-22 2022-12-13 Clean up birthday decorations @home +housekeeping
 2022-12-13 Acquire a box or a bag to wrap Joels christmas gift in @home due:2022-12-16
 x 2022-12-15 2022-12-13 Clean out fridge @home +housekeeping
 2022-12-14 Clean keyboard +housekeeping
@@ -50,6 +50,7 @@ x 2022-12-17 2022-12-17 Add little sisters birthday to calendar @phone @laptop +
 2022-12-17 Text Giselle to find out Paul's birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
 x 2022-12-17 2022-12-17 Add SO sister's birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
 2022-12-17 Add SOs nephews birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
-2022-12-17 Purchase a stackable letter tray @phone @laptop +personalorganization +gtd
+x 2022-12-22 2022-12-17 Purchase a stackable letter tray @phone @laptop +personalorganization +gtd
 2022-12-20 Update chocofur user account email to hobby email address @laptop +privacy
 2022-12-21 Create and agenda doc on google account to share with sister and SO for new year meeting @laptop
+2022-12-22 Reply to bros friend regarding vegas trip @phone
