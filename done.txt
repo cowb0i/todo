@@ -22,3 +22,6 @@ x 2022-12-17 2022-12-17 Add older sisters birthday to calendar @phone @laptop +p
 x 2022-12-17 2022-12-17 Add little sisters birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
 x 2022-12-17 2022-12-17 Add SO sister's birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
 x 2022-12-22 2022-12-17 Purchase a stackable letter tray @phone @laptop +personalorganization +gtd
+x 2022-12-22 2022-12-13 Make appointment online for haircut @laptop @phone +selfcare
+x 2022-12-22 2022-12-13 Change email address associated with bandcamp account to music email address @laptop +privacy @bandcamp
+x 2022-12-22 2022-12-13 Change nintendo online email address to gamer email address @laptop +privacy

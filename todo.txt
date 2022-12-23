@@ -1,11 +1,8 @@
 2022-12-13 Update amazon user account email to consumer email @laptop +privacy
-2022-12-13 Change nintendo online email address to gamer email address @laptop +privacy
-2022-12-13 Change email address associated with bandcamp account to music email address @laptop +privacy @bandcamp
 2022-12-13 Brainstorm card ideas for SO +so +christmasgift @home @desk
 2022-12-13 Brainstorm purchasable gift ideas for SO +so +christmasgift
 2022-12-13 Review pricing options for hosted git. Is it cheaper to self host? +privacy +selfhostedgit +hostedgit @laptop @digitalocean
 2022-12-13 Brainstorm card content for SO bday card +birthdaygift @home @desk
-2022-12-13 Make appointment online for haircut @laptop @phone +selfcare
 2022-12-13 Backup password store to USB or harddisk +personalsecurity +passwordstorebackup @laptop
 2022-12-13 Find a suitable medium to backup password store. Look online to see what others are doing. @home +personalsecurity +passwordstorebackup
 2022-12-13 Create a maybe someday list +gtd @phone @laptop
@@ -44,3 +41,4 @@
 2022-12-22 Confirm M's address with them @phone +giftgiving
 2022-12-22 Pick a date i can make it to a Service Ontario location to renew health card +personalhealth @phone @laptop
 2022-12-22 Ask group chat about christmas gift for dad +christmasgift
+Update spotify email to music email address @laptop +privacy
