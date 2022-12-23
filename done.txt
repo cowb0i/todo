@@ -8,3 +8,17 @@ x 2022-12-15 2022-12-13 Create projects list +gtd @phone @laptop
 x 2022-12-14 2022-12-14 Get almond milk from grocery store @grocerystore +errands
 x 2022-12-15 2022-12-15 Update banking password in pw store @laptop +personalsecurity
 x 2022-12-15 2022-12-15 Etransfer GF amount for implant and vet bills @phone @etransfer @laptop
+x 2022-12-22 2022-12-13 Clean up birthday decorations @home +housekeeping
+x 2022-12-22 2022-12-13 Acquire a box or a bag to wrap Joels christmas gift in @home due:2022-12-16
+x 2022-12-15 2022-12-13 Clean out fridge @home +housekeeping
+x 2022-12-17 2022-12-14 Get egg nogg @grocerystore +errands
+x 2022-12-15 2022-12-14 Wash fridge shelving @home +cleanfridge +housekeeping
+x 2022-12-16 2022-12-15 Wash fridge door shelves +housekeeping @home
+x 2022-12-17 2022-12-16 Wash dishes on table and around sink. Dry dishes on dry rack @home +housekeeping
+x 2022-12-17 2022-12-16 Add mothers birthday to calendar. @phone @laptop +personalorganization +birthdaycalendar
+x 2022-12-17 2022-12-16 Get birthday card for dad @errands +birthdaygift
+x 2022-12-17 2022-12-17 Add brothers birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
+x 2022-12-17 2022-12-17 Add older sisters birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
+x 2022-12-17 2022-12-17 Add little sisters birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
+x 2022-12-17 2022-12-17 Add SO sister's birthday to calendar @phone @laptop +personalorganization +birthdaycalendar
+x 2022-12-22 2022-12-17 Purchase a stackable letter tray @phone @laptop +personalorganization +gtd
