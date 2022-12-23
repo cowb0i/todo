@@ -42,3 +42,4 @@
 2022-12-22 Pick a date i can make it to a Service Ontario location to renew health card +personalhealth @phone @laptop
 2022-12-22 Ask group chat about christmas gift for dad +christmasgift
 Update spotify email to music email address @laptop +privacy
+2022-12-23 Add necessary email folders for bandcamp emails @laptop +personalorganization
