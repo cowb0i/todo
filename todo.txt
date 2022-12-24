@@ -16,7 +16,7 @@
 2022-12-14 Clean bathroom floors +housekeeping @home +cleanbathroom
 2022-12-14 Organize shelves +housekeeping +personalorganization +cleanlivingarea @home
 2022-12-14 Clean living area floors +housekeeping +cleanlivingarea @home
-2022-12-15 Pick up pass-the-present gift at the St.Lawrence marker +christmasgift @laptop @errands
+x 2022-12-24 2022-12-15 Pick up pass-the-present gift at the St.Lawrence marker +christmasgift @laptop @errands
 2022-12-15 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
 2022-12-16 Change email address associated with dekudeals.com using gamer email address @laptop +privacy
 2022-12-16 Find a day for the Stack Christmas market @phone +familyengagement +stackchristmasmarket
