@@ -43,3 +43,4 @@
 2022-12-22 Ask group chat about christmas gift for dad +christmasgift
 Update spotify email to music email address @laptop +privacy
 2022-12-23 Add necessary email folders for bandcamp emails @laptop +personalorganization
+2022-12-24 Look into what the Flos Olei is @phone @laptop +cooking
