@@ -44,3 +44,4 @@ x 2022-12-24 2022-12-15 Pick up pass-the-present gift at the St.Lawrence marker 
 Update spotify email to music email address @laptop +privacy
 2022-12-23 Add necessary email folders for bandcamp emails @laptop +personalorganization
 2022-12-24 Look into what the Flos Olei is @phone @laptop +cooking
+2023-01-04 Give dad his mail @momandpops
