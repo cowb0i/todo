@@ -37,9 +37,9 @@
 Update spotify email to music email address @laptop +privacy
 2022-12-23 Add necessary email folders for bandcamp emails @laptop +personalorganization
 2022-12-24 Look into what the Flos Olei is @phone @laptop +cooking
-2023-01-04 Give dad his mail @momandpops
+2023-01-04 Give dad his mail @errands
 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
 get budgeting app up to date on credit card transactions @laptop +personalfinance
 get all accounts reconciled in budgeting app @laptop +personalfinance
-look into AWS web services invoice for 1.55.
-Search online where one could sell aluminum computer components
+look into AWS web services invoice for 1.55 +persnalfinance @laptop
+Search online where one could sell aluminum computer components @laptop
