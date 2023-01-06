@@ -25,3 +25,8 @@ x 2022-12-22 2022-12-17 Purchase a stackable letter tray @phone @laptop +persona
 x 2022-12-22 2022-12-13 Make appointment online for haircut @laptop @phone +selfcare
 x 2022-12-22 2022-12-13 Change email address associated with bandcamp account to music email address @laptop +privacy @bandcamp
 x 2022-12-22 2022-12-13 Change nintendo online email address to gamer email address @laptop +privacy
+x 2023-01-06 2022-12-14 Clean shower @home +housekeeping +cleanbathroom
+x 2022-12-24 2022-12-15 Pick up pass-the-present gift at the St.Lawrence marker +christmasgift @laptop @errands
+x 2023-01-06 2022-12-14 Clean toilet +housekeeping +cleanbathroom @home
+x 2023-01-06 2022-12-15 Change Email address associated with digital ocean account @laptop @digitalocean +privacy
+x 2023-01-06 2022-12-22 Ask group chat about christmas gift for dad +christmasgift
